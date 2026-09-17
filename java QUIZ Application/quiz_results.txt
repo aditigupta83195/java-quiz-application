@@ -1,0 +1,56 @@
+Player: simran
+Score: 1 / 10
+Percentage: 10%
+--------------------------
+Player: aditi
+Score: 3 / 10
+Percentage: 30%
+--------------------------
+Player: aditi
+Score: 1 / 10
+Percentage: 10%
+--------------------------
+Player: don2
+Score: 3 / 10
+Percentage: 30%
+--------------------------
+Player: aaa
+Score: 5 / 10
+Percentage: 50%
+--------------------------
+Player: aaa
+Score: 5 / 10
+Percentage: 50%
+--------------------------
+Player: anita
+Score: 5 / 10
+Percentage: 50%
+--------------------------
+Player: as
+Score: 4 / 10
+Percentage: 40%
+--------------------------
+Player: hi
+Score: 1 / 10
+Percentage: 10%
+--------------------------
+Player: g
+Score: 4 / 10
+Percentage: 40%
+--------------------------
+Player: u
+Score: 4 / 10
+Percentage: 40%
+--------------------------
+Player: y
+Score: 5 / 10
+Percentage: 50%
+--------------------------
+Player: k
+Score: 3 / 10
+Percentage: 30%
+--------------------------
+Player: l
+Score: 2 / 10
+Percentage: 20%
+--------------------------
