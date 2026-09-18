@@ -80,7 +80,5 @@ JavaQuizApplication
 ├── Result.java
 ├── ScoreManager.java
 ├── TimerManager.java
-│
-├── .gitignore
 ├── README.md
 └── statement.md
